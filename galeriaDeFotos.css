@@ -1,0 +1,62 @@
+body{
+    /* font-family: a; */
+    background-image: url(fundoCanvaGaleriaDeFotos.png);
+    
+}
+
+.lxgw-wenkai-mono-tc-regular {
+    font-family: "LXGW WenKai Mono TC", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+img{
+    width: 300px;
+    height: 350px;
+    border: solid 1px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
+
+.titulo{
+    border: solid 3px;
+    border-radius: 20px;
+    /* centralizando itens */
+    align-items: center;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    background-color: #8E71C8;
+    margin-bottom: 8px;
+    font-family:"LXGW WenKai Mono TC";
+}
+
+.subTitulo{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 3%;
+}
+
+.linhaUm{
+    align-items: center;
+    text-align: center;
+    border: solid 0px;
+    justify-content: center;
+    width: 910px;
+    margin: auto;
+    height: 400px;
+    display: block;
+    display: flex;
+}
+
+.linhaDois{
+    align-items: center;
+    text-align: center;
+    border: solid 0px;
+    justify-content: center;
+    width: 910px;
+    margin: auto;
+    display: block;
+    display: flex;
+}  
